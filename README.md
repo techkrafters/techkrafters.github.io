@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Build Settings
 
-remote_theme: mediumish-theme-jekyll/_config.yml
+remote_theme: wowthemesnet/mediumish-theme-jekyll
